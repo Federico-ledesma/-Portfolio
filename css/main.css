@@ -5,18 +5,19 @@ h1,p{
 
 .img__container{
     padding-bottom: 10px;
+
 }
 
 .img{
-    width: 70vw;
+    width: 40vw;
 }
 
 .presentacion{
     width: 95vw;
-    height: 90vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
 }
 
