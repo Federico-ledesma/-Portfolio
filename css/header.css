@@ -16,11 +16,10 @@ div,body,ul,li,a{
     flex-direction: row;
     list-style: none;
     width: 100vw;
-    padding-top: 60px;
+    padding-top: 20px;
     padding-bottom: 20px;
     margin: 0;
     background-color: #0005;
-    position: fixed;
 }
 
 .nav__list{

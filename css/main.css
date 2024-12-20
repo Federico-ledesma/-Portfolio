@@ -5,16 +5,15 @@ h1,p{
 
 .img__container{
     padding-bottom: 10px;
-
 }
 
 .img{
-    width: 40vw;
+    width: 60vw;
 }
 
 .presentacion{
     width: 95vw;
-    height: 100vh;
+    height: 95vh;
     display: flex;
     flex-direction: column;
     justify-content: end;
@@ -29,6 +28,11 @@ h1{
     list-style: none;
     letter-spacing: 2px;
 }
+
+.texts__container{
+    margin-bottom: 20px;
+}
+
 
 .flecha__abajo__container{
     display: flex;
